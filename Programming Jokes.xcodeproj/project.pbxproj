@@ -11,6 +11,7 @@
 		3FCE69D725DD807100F36018 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCE69D625DD807100F36018 /* ContentView.swift */; };
 		3FCE69D925DD807500F36018 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FCE69D825DD807500F36018 /* Assets.xcassets */; };
 		3FCE69DC25DD807500F36018 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FCE69DB25DD807500F36018 /* Preview Assets.xcassets */; };
+		3FCE69E825E01F9500F36018 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCE69E725E01F9500F36018 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3FCE69D825DD807500F36018 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FCE69DB25DD807500F36018 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3FCE69DD25DD807500F36018 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FCE69E725E01F9500F36018 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3FCE69D625DD807100F36018 /* ContentView.swift */,
 				3FCE69D825DD807500F36018 /* Assets.xcassets */,
 				3FCE69DD25DD807500F36018 /* Info.plist */,
+				3FCE69E725E01F9500F36018 /* SwiftyJSON.swift */,
 				3FCE69DA25DD807500F36018 /* Preview Content */,
 			);
 			path = "Programming Jokes";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FCE69E825E01F9500F36018 /* SwiftyJSON.swift in Sources */,
 				3FCE69D725DD807100F36018 /* ContentView.swift in Sources */,
 				3FCE69D525DD807100F36018 /* Programming_JokesApp.swift in Sources */,
 			);
